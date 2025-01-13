@@ -1,2 +1,0 @@
-run app.py
-open link output dari program tersebut
